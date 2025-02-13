@@ -1,0 +1,12 @@
+# Environment
+.env
+
+# Python
+__pycache__
+
+# Miscellaneous
+archives
+extras
+
+# ChromaDB
+vectorstore
